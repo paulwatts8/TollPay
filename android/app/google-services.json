@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "670916844561",
+    "firebase_url": "https://test-projects-4cab5.firebaseio.com",
+    "project_id": "test-projects-4cab5",
+    "storage_bucket": "test-projects-4cab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670916844561:android:8700289dfaa4e27294e5b0",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670916844561-253fcs8cqnclkpaf54athj6nfs5rskgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brew_crew",
+            "certificate_hash": "0da74cc90eaf1020d631d09ef6a2d1c2d19eef7f"
+          }
+        },
+        {
+          "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE6i1UETsx_cwRw8GCzxtnIC4mQXBxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670916844561:android:bf26b0604431037094e5b0",
+        "android_client_info": {
+          "package_name": "com.example.toll_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670916844561-ldoionj210ekc11g8c36fr6k56hoaf2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toll_pay",
+            "certificate_hash": "0da74cc90eaf1020d631d09ef6a2d1c2d19eef7f"
+          }
+        },
+        {
+          "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE6i1UETsx_cwRw8GCzxtnIC4mQXBxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670916844561:android:5de7bfa9ee87a73c94e5b0",
+        "android_client_info": {
+          "package_name": "com.example.tollpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE6i1UETsx_cwRw8GCzxtnIC4mQXBxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670916844561-5ilh3ppnf3755dpgtnai2qh36o11frth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
