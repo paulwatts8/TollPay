@@ -79,7 +79,6 @@ class _PaymentsState extends State<Payments> {
                     elevation: 7.0,
                     color: Colors.indigo[600],
                     child: GestureDetector(
-                      
                       onTap: () async {
                                            },
                       child: Center(
